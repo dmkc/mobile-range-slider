@@ -13,6 +13,7 @@ The constructor takes an ID or reference to an `input` of type
 ```js
 new MobileRangeSlider('my_slider'); // passing an ID
 new MobileRangeSlider(element);     // passing a DOM element
+````
 
 ````html
 <input id="my_slider" type="range" min="1" max="100">
